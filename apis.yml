@@ -1,6 +1,6 @@
 aid: crown-castle-international
 name: Crown Castle
-x-type: company
+kind: company
 description: >-
   Crown Castle is a leading United States provider of shared communications
   infrastructure including cell towers, small cells, and fiber. Crown
