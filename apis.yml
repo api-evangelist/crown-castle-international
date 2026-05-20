@@ -37,6 +37,8 @@ access: Private
 position: Consuming
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/crown-castle
   - type: Website
     url: https://www.crowncastle.com/
   - type: About
