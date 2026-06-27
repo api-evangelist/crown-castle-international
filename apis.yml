@@ -56,7 +56,7 @@ common:
     url: https://www.crowncastle.com/news/
   - type: PrivacyPolicy
     url: https://www.crowncastle.com/privacy-policy/
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.crowncastle.com/terms-of-use/
 maintainers:
   - FN: Kin Lane
