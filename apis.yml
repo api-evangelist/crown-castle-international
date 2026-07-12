@@ -38,6 +38,8 @@ access: Private
 position: Consuming
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/crown-castle-international-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/crown-castle
   - type: Website
