@@ -43,7 +43,7 @@ tags:
   - Fortune 1000
 created: '2025-03-01'
 modified: '2026-04-28'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 type: Index
 access: Private
 position: Consuming
