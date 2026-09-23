@@ -1,7 +1,9 @@
 ---
 title: DISH Signs Multi-Year Anchor Tenant Tower Agreement ...
 url: https://www.prnewswire.com/news-releases/dish-signs-multi-year-anchor-tenant-tower-agreement-with-crown-castle-301173532.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Crown Castle International" press release artificial intelligence'
 position: 4
 source: serpapi-google
